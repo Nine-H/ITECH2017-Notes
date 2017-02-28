@@ -1,0 +1,95 @@
+#Workshop 1
+
+###Problems
+- Lots of them
+- Need to be defined
+- Find the source
+
+###Objectives
+- Develop problem solving skills and techniques with a particular focus on IT
+- Build confidence to make myself willing to try when the answer is unknown, persist when tasks are challenging, and keep goin in spite of mistakes.
+
+###Structure
+- One 2-hour workshop
+- One 2-hour lab
+- Independent study
+
+###Attendance & Participation
+- Shared learning
+- Shared experience and interactions
+- Employment readiness
+
+###Course Description
+in the moodle
+
+###Assessments
+Portfolio (20%)
+	Part A
+	Part B
+Presentation (10%)
+Assignment (30%)
+Exam (40%)
+
+###Feedback
+See the general Course discussion forum in the moodle.
+
+###What is Problem Solving?
+Two key words there, what are you simple?
+
+###Routine and Non-Routine Problems
+
+**Routine problems**
+
+- have simple solutions
+- occur regularly
+- baking a cake
+
+**Non-Routine Problems**
+
+- more complex
+- require strategies to solve
+- rocket to the moon, raising a child
+
+**Wicked Problems**
+
+- difficult to define
+- multi-faceted
+- fixing them can cause additional problems
+- unstable
+- no clear solution
+- socially complex
+- shared responsibilities
+- characterised by chronic policy failure
+- political and diplomatic problems
+
+###Importance of problem solving
+> "Regardless of profession we are all hired to do the same job: solve problems" -Martin Yate
+
+###Mindset
+- define what success is to you
+- deal with failures
+- find the discipline to do the work
+
+> "I have not failed 10,000 times, I have not failed once. I have succeeded in proving those 10,000 ways do not work. When I have eliminated the ways that won't work I will find the way that does" -- Thomas Edison
+
+**When you have failures**
+
+- I'm not good at this: practice
+- It's embarrassing to make mistakes: everyone does
+- I can't do it: probably can
+- People will think I'm stupid/dumb/failure: fuck'em they're probably to self absorbed to notice you
+- I'm not smart enough: nobody is until they aren't
+
+>learn karate.
+
+**fixed mindset**
+
+- believe that abilities are inherent
+- afraid of being judged
+- like certainty
+
+**growth mindset**
+
+- believe abilities are aquired
+- respond to feedback
+- enjoy challenges
