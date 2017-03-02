@@ -1,0 +1,86 @@
+#Lecture1 (course overview)
+
+##Joarder Kamruzzaman
+>some koff data is hckcck very cochh time sensitive *coughs up lung*
+>*dies*
+
+###Overview
+- Networking and Security
+
+**Second Year**
+
+- Network Architecture and Design
+- Mobile and wireless Communications
+
+**Third Year**
+
+- Information Security
+- Cloud and Mobile Security
+
+**this course**
+
+- basic understanding of networking
+- interact with tools
+- understand the two main networking models (OSI + Internet), one week/layer
+- Appreciate the role and need for standards
+- Taste of cloud and mobile computing
+- introduce computer security fundamentals
+
+**sending data**
+
+- can send direct
+- may have intermediate nodes
+- needs a routing scheme
+- how do we verify the integrity of the data?
+- chunk data into packets
+- error checking systems
+- time sensitivity
+- sequence of packets
+
+**topics**
+
+- hardware
+- osi model
+- internet model
+- how models interrelate
+- what the models mean
+
+**osi model**
+
+- layer 1: physical
+- layer 2: data link
+- layer 3: network
+- layer 4: transport
+- layer 5: session
+- layer 6: presentation
+- layer 7: application
+
+**tools**
+
+- virtualisation
+- linux
+- linux networking commands
+- windows networking commands
+- using the cloud
+- security tools
+
+**labs**
+
+2 hours, practicle stuff
+
+###Aims
+``
+
+###Topics
+###Format
+###Reference Material
+###Assessment
+- Lab tasks (15%) Type A
+- ePortfolio assignments (15%) Type A
+- Lab test (10%) Type B
+- Exam (60%) Type B
+
+50% overall 50% in Type B
+
+###Type A/B assessments
+##Time Commitment

@@ -1,0 +1,94 @@
+#Lecture1 (networking and security)
+
+###what is computer networking?
+- a telecommunications network that allows computers ot exchange data
+- an engineering discipline that aims to study and analys the communication process among devices and systems that are linked to share data and resources
+- any device that connects and generates data is a computer
+- internet of things: tiny devices that communicate only with machines
+- sensor driven parameters for AC, washing machines, car calling home
+
+###types of data exchange
+- google search
+- netflix: video stream
+- audio streaming: pandora, rhapsody, spotify
+- sending files to a printer
+- email
+- skype: real time video chat
+- uploading files to dropbox or onedrive
+- phonecalls on viber: voip
+- ebay
+
+###data exchange on eBay
+- view tiems on ebay
+- select item for purchase and go to checkout
+- login to ebay (authentication security)
+- pay with paypal (encryption security)
+
+###tech on eBay
+- site hosted in USA
+- made purchase from home using desktop computer
+- desktop connects to network using cat6 cable
+
+###cat6 cables
+- 4pairs of twisted wire
+- twists per distance must be correct: crosstalk
+- specific wires connected to speicific pins: standards
+- but we don't care, that's for standards orgs.
+
+###WiFi
+- whole new set of technologies to use and understand
+- home network WiFi router
+- 2.4 - 5ghz band
+
+###Mobile phone data
+- mobile base station
+- 800 - 1900 Khz band
+
+###devices in ebay exchange
+- home pc
+- ebay server
+- communications netowrk
+- paypal server
+- bank server
+
+###tools
+- wireshark: industry standard protocol analyser and network sniffer
+- virtualisation tools: simulate a pc on your pc
+
+###numbers systems
+system|numerals|base|locational significance
+--|--|--|--
+decimal | [0-9] | base10 | ..., 10^2 (100), 10^1 (10), 10^0 (1)
+binary | [0,1] | base2 |  ..., 2^2 (4), 2^1 (2), 2^0 (1)
+octal | [0-7] | base 8 | ...,
+hexadecimal | [0-f] | base16 | ..., 16^2 (256), 16^1 (16), 16^0 (1)
+
+**locational significance**
+
+what the number in each column is multiplied by. determined by the base of the number system.
+
+**binary**
+
+rightmost bit is the least significant bit, must include leading zero bits, the leftmost bit is the most significant bit. (this is big-endian, there also exist little endian systems that store the least significant bit first).
+
+**hexadecimal and octal**
+
+octal numbers or base 8 can be represented by 3 bits. conversion can be done by grouping the raw binary into 3-bit numbers.
+
+hexadecimal can be represented with 4 bits. conversion is done by grouping raw binary into 4-bit numbers and calculating the value from 0-F (or 0-15). Hex is used in MAC addresses. You denote a hex number with a subscript 16 EG 134<sub>16</sub>.
+
+for an n-bit number system the minimum is 0 and the maximum is 2^n -1, and the total amount of numbers is 2^n. for example a 5-bit number system would have a maximum of 2^5 - 1 = 31 and can represent 32 different values.
+
+**decimal to binary**
+
+the process for converting 37 to binary:
+
+step | subtract | remainder | bit
+--|--|--|--
+0 | 37 - 32 | 5 | 1
+1 | 5 - 16 | -11 | 0
+2 | 5 - 8 | -3 | 0
+3 | 5 - 4 | 1 | 1
+4 | 1 - 2 | -1 | 0
+5 | 1 - 1 | 0  | 1
+

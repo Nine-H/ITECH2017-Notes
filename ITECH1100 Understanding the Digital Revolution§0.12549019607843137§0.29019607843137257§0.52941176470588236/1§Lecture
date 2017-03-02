@@ -1,0 +1,269 @@
+#Lecture1
+
+###What is digital?
+computers and whatnot
+
+###The Big Idea
+- What digital technology means
+- Transformations in the past and future
+
+###Course Goals
+- Cover the fundamentals of IT
+- Introduce Business Information Systems
+- Put IT in the context of broader society
+- Understand IT as the intersection of tech and humanity
+
+>Investigate how **amazing**, **interesting**, **trasformative**, and sometimes **scary** computers can be
+
+###Resources
+- Moodle
+- No textbook
+- Merrit, Bob and ProQuest (2016) The Digital revoluion - Synthesis Lectures on Emerging Engineering Technologies
+- Student Email, need to check
+
+###Assessment
+- Create a video about an IT topic (15%)
+- Write a proposal to disrupt an existing industry or domain (25%)
+- The outcomes of the first 10 lab tasks (10%)
+- Exam (50%)
+- **Assignments Wk5**
+
+###Revolutions
+Our world has been transformed by a long series of evolutions and revolutions, revolutions are quicker
+
+Examples include the industrial revolution and the exponential growth of the internet.
+
+###Enough electronics to be dangerous
+
+***electrical signals are the building blocks of computers***
+
+- transistors
+- boolean logic
+- representation of numbers: base10, base2, hexadecimal
+- physics of computing
+
+###Hardware and software
+
+**How people make computers do the stuff they want them to do**
+
+- how CPU's operate: cram shit in the registers and increment the clock
+- what algorithms are: recipie for results
+- how people make computers do interesting things
+- storing information
+
+###Connecting people and computers
+
+**computer systems are useful if they communicate**
+
+- networking and the internet
+- process modelling
+- computer graphics
+- user interfaces
+- ubiquitous computing: everywhere!
+
+###Emergent technologies
+- Artificial Intelligence
+- Virtual Reality: the million dollar industry to make a fake reality that's blocky and gives you a headache
+- Something different and cool each week
+
+###Social impact of the digital revolution
+- Ethics and some ethical theories
+- How each technology affects society
+
+###Weekly structure
+- the past
+- the present
+- the future
+
+###Digital Revolution
+- develompent: more powerful
+- commoditization: cheaper
+
+**Technical Drivers**
+
+- Speed: fast getting faster
+- Price: cheap getting cheaper
+- Size: small getting smaller
+
+>The capacity to process information at high speeds allows us to solve entire classess of problems that were previously impractical or impossible.
+
+Name | Price | GFLOPS | CBA
+-- | -- | -- | --
+Cray-2 | $30M | 1.9 GFLOPS | $16M / GFLOP
+PS4 | $500 | 135GFLOPS CPU 4197GFLOPS GPU | 11c/GFLOP
+
+**Price**
+
+- Mass Production: making more
+- Competition and Globalization
+- Improved manufacturing processes and miniturization
+
+**Moore's Law**
+
+- Gordon Moore
+> the complexity of integrated circuits doubles every year
+- logarithmic scale
+
+**Speed**
+- Higer speed
+- Less heat
+- Lower cost
+- New applications
+
+###Digital Revolution - What's changed
+Has anybody bought an actual newspaper n the last year?
+
+>New media types challenge established norms
+
+Have you recently had a discussion about who was in a movie and the outcome was " I guess we'll never know"
+
+>Easy access to information changes how we approach problems
+
+- instant global communication
+- eCommerce
+- smart phones
+- online games
+- digital images and video
+
+**What hasn't changed?**
+
+People are fundamentally the same as we were 100 years ago.
+
+- printing press lead to copyright laws
+- automobiles lead to road laws
+- DVD's led to the DMCA (Digital Millennium Copyright Act)
+
+**Lawrence Lessig: founder of Creative Commons movement**
+
+Four types of constraint regulate any human activity
+
+- Law: laws and their enforcement
+- Social: norms, morals, and ethical constraints
+- Economic: what can I afford? (speeding v. tyres, fuel)
+- Natural Barriers: physical limitations
+
+Constraints support each other: Criminality is socially and legally unacceptable
+Constraints antagonise each other: Piracy is Cheap and arguably easy
+
+See also: Stanford Law and the Microsoft v. Apple _Look and Feel_ case
+
+Internet regulations
+- Law: Weak National jurisdictions for a global technology
+- Social: internet is new and there are few social norms
+- 2fast5me
+- Economic 
+
+###Ethics
+
+Legal Economic and Natural constraints determine whether you **can** do something
+
+Social constraints determine whether you should.
+
+>The principles of right and wrong that guide behaviour or activity
+>The philosopy of morality
+
+**In Practice**
+- beliefs
+- social conventions
+- rules
+- assumptions
+
+**IT creates ethical challenges**
+- a software tester discovers a software fault that her supervisor does not report
+- sysadmin accidentally discovers illegal activity in someone's email
+- a developer is asked to implement a s feature that will discriminate against a group of people
+
+> ethical dillemmas do not have easy solutions
+
+**Trolly Problem**
+- do nothing and implicitly kill five
+- pull the lever and explicitly kill one
+- there is only one acceptable answer
+- multi track dorifto
+
+**Hospital waiting room**
+- six patients
+- five need organs
+- one needs nothing
+- kill one to save five
+- do nothing and five die
+- order the harvesting
+- 40% of your fellow students are communists
+
+**Comparitively**
+- did you answer differently
+- what was different?
+- how would you respond if hte numbers were different?
+- what if the person was part of your family?
+
+**How do we determine what is ethical?**
+
+- underpins the entire field of ethics
+- many attempts
+- focus on applied ethics
+- the code of conduct
+
+an example of a code of conduct would be the ten commandments, the five precepts of buddhism.
+
+**ACS**
+Asustralian Computer Society
+peak professional industry body for IT and CS
+
+- Primacy of Public Interest
+- Enhancement of Quality of Life
+- Honesty
+- Competence
+- Professional Development
+- Professionalism
+
+**Limitations of Codes of Conduct**
+
+>You will **confront attempt to limit diversity** in the workplace, and ensure that opportunities for employment, advancement, remuneration, and other working conditions are based on the **actual skills and performance of employees**, free of stereotypes and prejudices.
+
+Should you employ a less qualified employee to maintain diversity?
+
+###Ethical Frameworks
+
+- Deontology: Duty based ethics, rules, frameworks.
+- Utilitarianism: Consequence based ethics, maximizing happiness
+- Virtue Ethics: being a good person is the way to ethical behaviour, positive character traits, honesty, competence, professionalism
+
+**aristotle's list of moral virtues**
+
+**Whistleblowing**
+- is it OK for an IT professional to leak information?
+- Wikileaks
+- Snowden
+- Lecture notes
+
+**Whistleblowing - Deontology**
+
+following the ACS Code of ethics this may fall under the Primacy of Public Interest
+>you will place the interests of the public above those of personal, business, or sectional interests
+
+**Whistleblowing - Utilitarianism**
+
+- reduce surveilance
+- improve the lives of targets
+- what about gov workers?
+- if nothing is done then everybody just becomes unhappy with the government
+
+**Whistleblowing - Virtues**
+- Courage: taking the risk
+- Temperance: accepting blackballing
+- Truthfulness: telling the truth
+- Righteous indignation: it's not the role of private companies to reimplement the STASI
+
+Identify which of these three ethical frameworks aligns with how you htink about ethical behaviour
+- what makes this framework appealing?
+;lsad;lklkjdsoij
+
+
+
+
+
+
+
+
+
+

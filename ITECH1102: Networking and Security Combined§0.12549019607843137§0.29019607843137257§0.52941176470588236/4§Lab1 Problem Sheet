@@ -1,0 +1,18 @@
+#Lab1 Problem Sheet
+
+###q1
+
+124 in binary hex and octal
+
+binary
+
+--|--
+124 | 0
+60 | 1
+28 | 1
+12 | 1
+4 | 1
+0 | 0
+0 | 0
+
+124 = 0111100 binary = 
