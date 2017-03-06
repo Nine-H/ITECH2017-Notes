@@ -3,6 +3,8 @@ notes in markdown for ITECH units.
 
 synchronised to my notetaking app.
 
+which is the excellent [Notes-up](https://github.com/Philip-Scott/Notes-up) by Phillip Scott.
+
 ###Markdown
 
 Easy human readable formatting syntax. What these notes are in.
